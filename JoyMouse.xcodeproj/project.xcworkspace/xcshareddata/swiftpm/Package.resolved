@@ -1,0 +1,15 @@
+{
+  "originHash" : "6fe3fc203ab59aed3f5f0dae050f4392a3abf01a7d633ec4f55485cc5f9e744d",
+  "pins" : [
+    {
+      "identity" : "joyconswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Kotliamba/JoyConSwift",
+      "state" : {
+        "revision" : "139a905a9a90e5d11f2e34acff9530e2cd4f9707",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}

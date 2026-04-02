@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 import biplist
 import os.path
 
-app = defines.get('app', './dmg/JoyKeyMapper.app')
+app = defines.get('app', './dmg/JoyMouse.app')
 appname = os.path.basename(app)
 
 # Basics
