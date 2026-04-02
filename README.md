@@ -43,10 +43,6 @@ Release prerequisites:
 - notarization credentials stored with `xcrun notarytool store-credentials` or provided via `APP_API_KEY_PATH`, `APP_API_KEY_ID`, and `APP_API_ISSUER`
 - a Git tag in `v*.*.*` format so `scripts/set_build_number.sh` can derive the version
 
-## Support the work
-
-[![Paypal Donate](https://img.shields.io/badge/paypal-donate-orange)](https://paypal.me/joysilicon) You can buy me a cup of bubble tea if you like it.
-
 ## Acknowledgement
 
 This application is heavily based on [magicien/JoyKeyMapper](https://github.com/magicien/JoyKeyMapper). We thank them a lot for open-sourcing the [JoyKeyMapper](https://apps.apple.com/us/app/joykeymapper/id1511416593?mt=12) app. Please also support them if possible.
